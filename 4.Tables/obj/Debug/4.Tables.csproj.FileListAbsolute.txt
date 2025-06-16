@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\bin\Debug\4.Tables.exe.config
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\bin\Debug\4.Tables.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\bin\Debug\4.Tables.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\obj\Debug\4.Tables.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\obj\Debug\4.Tables.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\obj\Debug\4.Tables.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\obj\Debug\4.Tables.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\4.Tables\obj\Debug\4.Tables.exe.config

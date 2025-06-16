@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\bin\Debug\5.Arthimetic operations.exe.config
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\bin\Debug\5.Arthimetic operations.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\bin\Debug\5.Arthimetic operations.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\obj\Debug\5.Arthimetic operations.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\obj\Debug\5.Arthimetic operations.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\obj\Debug\5.Arthimetic operations.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\obj\Debug\5.Arthimetic operations.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\5.Arthimetic operations\obj\Debug\5.Arthimetic operations.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\bin\Debug\2.Swapping.exe.config
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\bin\Debug\2.Swapping.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\bin\Debug\2.Swapping.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\obj\Debug\2.Swapping.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\obj\Debug\2.Swapping.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\obj\Debug\2.Swapping.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\2.Swapping\obj\Debug\2.Swapping.pdb

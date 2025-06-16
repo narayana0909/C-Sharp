@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\bin\Debug\6.Average.exe.config
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\bin\Debug\6.Average.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\bin\Debug\6.Average.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\obj\Debug\6.Average.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\obj\Debug\6.Average.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\obj\Debug\6.Average.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\6.Average\obj\Debug\6.Average.pdb

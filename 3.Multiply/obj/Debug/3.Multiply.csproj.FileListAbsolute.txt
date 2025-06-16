@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\bin\Debug\3.Multiply.exe.config
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\bin\Debug\3.Multiply.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\bin\Debug\3.Multiply.pdb
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\obj\Debug\3.Multiply.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\obj\Debug\3.Multiply.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\obj\Debug\3.Multiply.exe
+C:\Users\Asus\OneDrive\Desktop\C Sharp programs\repos\Programs\C#\3.Multiply\obj\Debug\3.Multiply.pdb
